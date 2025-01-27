@@ -40,14 +40,3 @@ Dark Mode:
 ⬛ Background: #242424  
 ⬜ Text: rgba(255, 255, 255, 0.87)  
 🟦 Accent: #646cff
-
-🎯 Project Structure  
-
-/
-├── src/
-│   ├── main.js       # Main application logic
-│   ├── style.css     # Pixel-perfect styling
-│   ├── theme.js      # Theme switcher
-│   └── pokemon.js    # Pokemon animations
-├── index.html        # Entry point
-└── README.md        # You are here! 👋
