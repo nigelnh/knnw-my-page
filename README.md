@@ -7,7 +7,7 @@
 Welcome to my interactive pixel-perfect portfolio! Featuring adorable floating Pokémon companions, an engaging design, and a fully responsive layout, this project brings a unique experience with custom animations and fun features. Explore the world of Pokémon and customize your view with a dark or light theme.
 
 🔥 Live Demo  
-[Check out the live demo!](#) (Placeholder link for live demo)
+(https://nhanxnguyen.netlify.app/)
 
 ⚡ Features  
 ⭐ Pixel Art Design  
