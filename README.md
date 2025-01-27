@@ -16,6 +16,7 @@ Welcome to my interactive pixel-perfect portfolio! Featuring adorable floating P
 ⭐ Dark/Light Theme  
 ⭐ Galaxy Background  
 ⭐ Responsive Layout
+⭐ Netlify Hosting (I'm broke)
 
 🎮 Controls  
 🖱️ Drag the avatar around!  
@@ -23,9 +24,9 @@ Welcome to my interactive pixel-perfect portfolio! Featuring adorable floating P
 🗨️ Watch for random fact speech bubbles that appear!
 
 🛠️ Built With  
-📦 Vite (Modern build tool)  
-🎨 Vanilla CSS (For pixel-perfect styling)  
-🧩 JavaScript (Main logic and animations)  
+📦 Vite  
+🎨 Vanilla CSS  
+🧩 JavaScript
 🎮 Pokémon sprites from [PokeAPI](https://pokeapi.co/)  
 🌌 Galaxy backgrounds from [Unsplash](https://unsplash.com/)  
 🎨 Press Start 2P font from [Google Fonts](https://fonts.google.com/)
