@@ -2,43 +2,46 @@
 ░█░█░█▀█░█▀█░█░█░░░█▀▀░█░█░█▀▄░░█░░█▀▀░█░█░█░░░░█░░█░█
 ░▀░▀░▀░▀░▀░▀░▀░▀░░░▀░░░▀▀▀░▀░▀░░▀░░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀
 
-🌟 Pixel-Perfect Portfolio with Floating Pokémon Companions! 🌟
+# 🌟 Pixel-Perfect Portfolio with Floating Pokémon Companions! 🌟
 
 Welcome to my interactive pixel-perfect portfolio! Featuring adorable floating Pokémon companions, an engaging design, and a fully responsive layout, this project brings a unique experience with custom animations and fun features. Explore the world of Pokémon and customize your view with a dark or light theme.
 
-⚡ Features
-- ⭐ **Pixel Art Design**
-- ⭐ **Interactive Avatar**
-- ⭐ **Pokémon Animations**
-- ⭐ **Dark/Light Theme**
-- ⭐ **Galaxy Background**
-- ⭐ **Responsive Layout**
+🔥 Live Demo  
+[Check out the live demo!](#) (Placeholder link for live demo)
 
-## 🎮 Controls
-- 🖱️ **Drag** the avatar around!
-- 🌙 **Toggle** between dark/light mode.
-- 🗨️ Watch for **random fact speech bubbles** that appear!
+⚡ Features  
+⭐ Pixel Art Design  
+⭐ Interactive Avatar  
+⭐ Pokémon Animations  
+⭐ Dark/Light Theme  
+⭐ Galaxy Background  
+⭐ Responsive Layout
 
-## 🛠️ Built With
-- 📦 **Vite** (Modern build tool)
-- 🎨 **Vanilla CSS** (For pixel-perfect styling)
-- 🧩 **JavaScript** (Main logic and animations)
-- 🎮 **Pokémon sprites** from [PokeAPI](https://pokeapi.co/)
-- 🌌 **Galaxy backgrounds** from [Unsplash](https://unsplash.com/)
-- 🎨 **Press Start 2P** font from [Google Fonts](https://fonts.google.com/)
+🎮 Controls  
+🖱️ Drag the avatar around!  
+🌙 Toggle between dark/light mode.  
+🗨️ Watch for random fact speech bubbles that appear!
 
-## 🌈 Color Themes
-### Light Mode:
-- ⬜ **Background**: #ffffff
-- ⬛ **Text**: #213547
-- 🟦 **Accent**: #646cff
+🛠️ Built With  
+📦 Vite (Modern build tool)  
+🎨 Vanilla CSS (For pixel-perfect styling)  
+🧩 JavaScript (Main logic and animations)  
+🎮 Pokémon sprites from [PokeAPI](https://pokeapi.co/)  
+🌌 Galaxy backgrounds from [Unsplash](https://unsplash.com/)  
+🎨 Press Start 2P font from [Google Fonts](https://fonts.google.com/)
 
-### Dark Mode:
-- ⬛ **Background**: #242424
-- ⬜ **Text**: rgba(255, 255, 255, 0.87)
-- 🟦 **Accent**: #646cff
+🌈 Color Themes  
+Light Mode:  
+⬜ Background: #ffffff  
+⬛ Text: #213547  
+🟦 Accent: #646cff
 
-## 🎯 Project Structure
+Dark Mode:  
+⬛ Background: #242424  
+⬜ Text: rgba(255, 255, 255, 0.87)  
+🟦 Accent: #646cff
+
+🎯 Project Structure  
 
 /
 ├── src/
